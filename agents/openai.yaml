@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 355"
+  short_description: "俯拍压出巨字：把主体缩成地面上的一粒，短词压成横贯中部的凹槽大字"
+  default_prompt: "Use $xxd-panel-355 to turn my photo into Aerial Pressed Word artwork."

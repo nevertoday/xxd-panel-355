@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 355｜Aerial Pressed Word: keeps the photo and rebuilds below as a straight-down view of one endless flat ground in the photo's largest surface material: no horizon, no other scenery. One short word is pressed across the middle as grooves, edges softly raised, under low raking light, the last stroke dragging into a teardrop trail, the subject standing on it so small that only its colour and a longer shadow remain. One ground colour, plus two or three tiny colour points on the subject. The word is a rounded geometric sans-serif, Latin in lowercase, ending in one large dot, and does not name the object; any Chinese is Simplified. Scenes keep one object. The photo half carries no added text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-355 or asks for an aerial pressed word, letters pressed into the ground, or overhead land-art lettering from a photo.",
+  "short_description": "俯拍压出巨字：把主体缩成地面上的一粒，短词压成横贯中部的凹槽大字",
+  "zh-CN": {
+    "name": "俯拍压出巨字",
+    "tagline": "从正上方看下去，主体小得像一粒，短词压成横贯地面的凹槽大字。",
+    "look": "上半留着原照片，主体的身份、结构、姿态、真实质感和自然光都在，只做很轻的调色，头上留出天空，招牌和印刷字只留在照片里。下半改成正上方俯拍，地面换成照片里面积最大的那种材质，平整、干净、没有地平线和别的景物；一个短词横在中部偏下，两侧留白、不碰到边，笔画是这种材质压出来的凹槽，边缘松软隆起，低角度斜光照亮一侧、另一侧落入浅影，末笔拖成一条长轨迹，绕一个水滴形大圈。主体收成几块从正上方仍认得出的大形，完整地站在轨迹上，小得只看见身上两三处颜色和一道更长的影子，头顶留一点空，上下是大片空地；若照片是场景，只留最有代表性的一个单体。整片地面只有这一色，凹槽深一档、影子最深，字是圆润几何的无衬线体，拉丁字母用小写，结尾一个大圆点，字色比地面略深，中文用简体，只有这一个词，像给这一刻起的名字，从看得见的细节说出隐喻，不念东西的名字。",
+    "traits": [
+      "正上方俯拍",
+      "单一材质的空地",
+      "压出的凹槽巨字",
+      "水滴形长拖尾",
+      "极小主体和长影子",
+      "圆润无衬线的一个词"
+    ],
+    "good": [
+      "地面有一种大面积材质的照片：沙滩上的人、雪地里的狗、干草地边的自行车",
+      "轮廓和姿态清楚的单体：一个人、一只鸟、一栋房子、一辆车",
+      "构图乱、背景杂或主体很小的照片，会被改成俯拍并删掉环境"
+    ],
+    "poor": [
+      "想留下整条街、一群人或完整风景的照片，这里只放一个单体",
+      "想要平视或斜视的风景、把字印在表面上、或把主体画大的需求",
+      "需要很多颜色，或标题要直接念出画里东西名字的需求"
+    ]
+  },
+  "en": {
+    "name": "Aerial Pressed Word",
+    "tagline": "Shrinks the subject to a speck on endless ground, under one short word pressed in as giant grooves.",
+    "look": "The top half keeps the photograph: identity, structure, pose, texture and natural light stay, with only a light colour grade and sky above the subject, and signs or printed words stay in that photograph alone. Below, the view rises straight overhead onto one flat, clean, endless ground in the material that covers the most area in the photo, with no horizon and no other scenery; a short word lies across the middle, a little low, clear of both edges, its strokes pressed in as grooves with softly raised rims, one side lit by low raking light and the other in shallow shadow, the last stroke dragging into a long trail that loops a large teardrop. The subject becomes a few large forms still readable from above and stands complete on that trail, small enough that only two or three points of its colour and a longer shadow remain, with a little space above it and wide empty ground above and below; a scene keeps only its single most representative object. The ground is one colour, with grooves a step darker and shadows darkest, and the one word is a rounded geometric sans-serif, Latin in lowercase, closed by a large dot a step darker than the ground, with any Chinese in Simplified characters: a name for this moment, drawn from a visible detail, that states a metaphor and does not name the thing.",
+    "traits": [
+      "Straight-down aerial view",
+      "One endless ground material",
+      "Letters pressed in as grooves",
+      "Teardrop trail",
+      "Tiny subject, long shadow",
+      "One rounded sans-serif word"
+    ],
+    "good": [
+      "Photos with one dominant ground: a person on sand, a dog in snow, a bicycle at the edge of dry grass",
+      "A single subject with a clear outline and pose: one person, a bird, a building, a car",
+      "Weak, messy or small-subject photos, which are lifted overhead and stripped of their setting"
+    ],
+    "poor": [
+      "Photos where the whole street, a crowd or the full landscape has to stay, since only one object is kept",
+      "Requests for an eye-level or oblique landscape, letters printed on the surface, or a large subject",
+      "Requests for many colours, or a title that names the object in the picture"
+    ]
+  },
+  "ja": {
+    "name": "俯瞰の押し文字",
+    "tagline": "主体を真上から見た地面の粒にし、短い一語を溝の大字として横に押します。",
+    "look": "上半分には元の写真を残し、主体の正体、構造、姿勢、質感と自然光はそのまま、色だけをわずかに整え、頭上に空を残し、看板や印刷文字は上だけに留めます。下半分は真上からの俯瞰で、写真の中で最も広い材質の平らで清潔な地面が続き、地平線も他の景物もなく、短い一語が中央よりやや下を横切り、両側に余白を残して端に触れません。画は材質そのものを押し凹めた溝で、縁は柔らかく盛り上がり、低い斜光が片側を照らしてもう片側は浅い影に落ち、最後の画は長い軌跡になって雫形の大きな輪を一回りします。主体は真上からでも姿勢の分かる数個の大きな形に収め、軌跡の上に粒のように完結して立ち、見えるのは自分の色の二、三か所と自分より長い影だけで、頭上に少し空き、上下は広い空き地で、場面の写真は最も代表的な一つだけを残し、地面はその一色、溝は一段暗く影が最も暗く、文字は角の丸い幾何学的なサンセリフの一語、ラテン文字は小文字、末尾に大きな一点、色は地面より一段暗く、中国語は簡体字で、見える細部から引いた隠喩として物の名前は呼びません。",
+    "traits": [
+      "真上からの俯瞰",
+      "地平線のない単一の地面",
+      "押し凹めた溝の大字",
+      "雫形の長い軌跡",
+      "粒のような主体と長い影",
+      "角の丸いサンセリフの一語"
+    ],
+    "good": [
+      "地面の材質が広く見える写真：砂浜の人、雪の中の犬、乾いた草地の端の自転車",
+      "輪郭と姿勢がはっきりした単体：一人の人、一羽の鳥、一軒の建物、一台の車",
+      "構図が弱い、背景が散らかっている、主体が小さい写真（俯瞰にして周囲を省きます）"
+    ],
+    "poor": [
+      "通り全体、人混み、風景全体を残したい写真（置くのは一つだけです）",
+      "目線や斜めからの風景、表面に印刷した文字、主体を大きく描くことを求める場合",
+      "色数を増やしたい、またはタイトルに物の名前をそのまま呼びたい場合"
+    ]
+  },
+  "ko": {
+    "name": "눌러 새긴 큰 글자",
+    "tagline": "주인공을 땅 위의 작은 알갱이로 줄이고, 짧은 한 단어를 눌러 판 큰 글자로 가로지르게 합니다.",
+    "look": "위에는 원사진을 두고, 주체의 정체, 구조, 자세, 실제 질감과 자연광은 그대로 두고 색만 아주 가볍게 맞추며, 머리 위에 하늘을 남기고, 간판과 인쇄된 글자는 그 사진 안에만 둡니다. 아래는 바로 위에서 본, 사진에서 가장 넓은 재질의 평평하고 깨끗한 땅으로, 지평선도 다른 경물도 없으며, 짧은 한 단어가 가운데보다 조금 아래를 가로지르고 양쪽은 비워 가장자리에 닿지 않습니다. 획은 그 재질을 눌러 판 홈이고 가장자리는 부드럽게 솟으며, 낮은 빗빛이 한쪽을 비추고 다른 쪽은 얕은 그림자에 들어가며, 마지막 획은 긴 자국이 되어 물방울 모양의 큰 고리를 한 바퀴 돕니다. 주체는 바로 위에서도 자세가 읽히는 몇 개의 큰 형태로 줄여 그 자국 위에 온전히 서고, 몸의 색 두세 점과 자신보다 긴 그림자만 보이며, 머리 위에 조금 비우고 위아래는 넓은 빈 땅이며, 장면 사진은 가장 대표적인 하나만 남기고, 땅은 그 한 색, 홈은 한 단계 어둡고 그림자가 가장 어두우며, 글자는 둥근 기하 산세리프 한 단어, 라틴 문자는 소문자, 끝에 큰 점 하나, 색은 땅보다 한 단계 어둡고, 중국어는 간체이며, 보이는 디테일에서 끌어낸 은유로 이 순간에 이름을 붙이고 사물의 이름은 부르지 않습니다.",
+    "traits": [
+      "바로 위에서 본 시점",
+      "지평선 없는 한 가지 지면",
+      "눌러 판 홈 글자",
+      "물방울형 긴 자국",
+      "아주 작은 주체와 긴 그림자",
+      "둥근 산세리프 한 단어"
+    ],
+    "good": [
+      "지면 재질이 넓게 보이는 사진: 모래밭의 사람, 눈 속의 개, 마른 풀밭 가장자리의 자전거",
+      "윤곽과 자세가 분명한 단일 대상: 한 사람, 새 한 마리, 건물 한 채, 자동차 한 대",
+      "구도가 약하거나 배경이 어수선하거나 주체가 작은 사진(위에서 보게 바꾸고 주변을 덜어 냅니다)"
+    ],
+    "poor": [
+      "거리 전체, 무리, 풍경 전체를 남기고 싶은 사진(하나만 놓습니다)",
+      "눈높이나 비스듬한 풍경, 표면에 인쇄한 글자, 주체를 크게 그리려는 요청",
+      "색을 많이 쓰거나, 제목이 그림 속 사물 이름을 그대로 불러야 하는 요청"
+    ]
+  },
+  "ar": {
+    "name": "حروف مضغوطة من الأعلى",
+    "tagline": "يُصغّر العنصر إلى حبّة على أرض ممتدة، وتُضغط كلمة قصيرة في هذه الأرض كأخاديد كبيرة.",
+    "look": "يُبقي النصف العلوي الصورة: هوية العنصر وبنيته ووضعه وملمسه وضوءه الطبيعي، مع تعديل لوني خفيف وسماء فوقه، وتبقى اللافتات والنص المطبوع في الصورة وحدها. الأسفل منظر من الأعلى مباشرة لأرض واحدة مستوية نظيفة بلا أفق ولا شيء آخر، من المادة الأوسع في الصورة، وتقطعها كلمة قصيرة عند المنتصف مائلة قليلاً إلى الأسفل مع فراغ على الجانبين فلا تلمس الحواف، وضرباتها أخاديد مضغوطة في المادة بحواف لينة مرتفعة، يضيء ضوء مائل منخفض جانباً ويترك الآخر في ظل ضحل، وتجرّ ضربة الحرف الأخير ذيلاً طويلاً يلفّ حلقة كبيرة كقطرة. يُختزل العنصر إلى بضع كتل كبيرة تُعرف من الأعلى ويقف مكتملاً على الذيل بحجم حبّة، فلا يُرى إلا نقطتان أو ثلاث من لونه وظل أطول منه، مع فراغ فوق رأسه وأرض خالية واسعة فوقه وتحته، وإن كانت الصورة مشهداً يُبقى العنصر الأبرز وحده. الأرض لون واحد، الأخاديد أغمق بدرجة والظلال أغمق ما يكون، والكلمة واحدة بخط هندسي مستدير بلا ذيول، واللاتينية صغيرة وتنتهي بنقطة كبيرة بلون أغمق بدرجة، والصينية مبسّطة، وهي اسم هذه اللحظة من تفصيل مرئي يقول استعارة ولا يسمّي الشيء.",
+    "traits": [
+      "منظر من الأعلى مباشرة",
+      "أرض واحدة بلا أفق",
+      "حروف مضغوطة كأخاديد",
+      "ذيل على شكل قطرة",
+      "عنصر ضئيل وظل طويل",
+      "كلمة واحدة بخط هندسي"
+    ],
+    "good": [
+      "صور تغلب فيها مادة الأرض: شخص على الرمل، كلب في الثلج، دراجة عند حافة عشب جاف",
+      "عنصر واحد بمحيط ووضعية واضحين: شخص، طائر، مبنى، سيارة",
+      "صور ضعيفة التكوين أو بخلفية مزدحمة أو بعنصر صغير، تُرفع إلى منظر علوي ويُحذف محيطها"
+    ],
+    "poor": [
+      "صور يجب أن يبقى فيها الشارع كله أو حشد أو المشهد كاملاً، إذ لا يُوضع إلا عنصر واحد",
+      "طلب منظر بمستوى العين أو مائل، أو حروف مطبوعة على السطح، أو عنصر مرسوم بحجم كبير",
+      "طلب ألوان كثيرة، أو عنوان يسمّي الشيء الظاهر في الصورة"
+    ]
+  }
+}
