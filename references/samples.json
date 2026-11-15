@@ -233,6 +233,18 @@
     },
     {
       "file": "assets/examples/sample-20.png",
+      "sha256": "644e0d2d196c525c5610d40e0c13292c43f7e8392bbc250ca24651739340b5a0",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "0408efffad2e1aa8218c67239f80aba807f2030c5f2d4b3f46b4c41bffe9bdf3",
+      "subject": "湖上帆船",
+      "unsplash_id": "photo-1751792384870-ffae062df616",
+      "text_locale": "ar",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-21.png",
       "sha256": "525db6fbb30577de3bbc1925e7b1d399436671eae7da953bded6babfb439d388",
       "width": 1536,
       "height": 864,
@@ -244,7 +256,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-21.png",
+      "file": "assets/examples/sample-22.png",
       "sha256": "f5df9bd0af31ab6d9bc54a068add46fd8ec9c40ee8b54228bb38d1c323b8c7de",
       "width": 1536,
       "height": 864,
@@ -256,7 +268,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-22.png",
+      "file": "assets/examples/sample-23.png",
       "sha256": "f9b5ae29c1231b17b1f1317491f907a2655a06e6d8b54b27f5541a42f27b4778",
       "width": 1536,
       "height": 864,
@@ -268,7 +280,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-23.png",
+      "file": "assets/examples/sample-24.png",
       "sha256": "a704d190668c2d28d5e1f56c0ca184ce0cd2fbe74e498b0f60352bcb06483d34",
       "width": 1536,
       "height": 864,
@@ -280,7 +292,19 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-24.png",
+      "file": "assets/examples/sample-25.png",
+      "sha256": "ffda06feef30bf671ddd75f91a861164ab4302993d603208da2147df4e0fe794",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "0408efffad2e1aa8218c67239f80aba807f2030c5f2d4b3f46b4c41bffe9bdf3",
+      "subject": "海滩独犬",
+      "unsplash_id": "photo-1759486885546-21a42be7cb6b",
+      "text_locale": "zh-CN",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-26.png",
       "sha256": "c35db5eab0acaefdc6a3b5ac310bc059396288a4d0effc4a2dff4a8ed95ebe85",
       "width": 1536,
       "height": 864,
@@ -292,7 +316,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-25.png",
+      "file": "assets/examples/sample-27.png",
       "sha256": "5931937c401a95fbbc1eb3c7850aca7acf9573e29c8b7f3d394f3128b1558273",
       "width": 1536,
       "height": 864,
@@ -304,7 +328,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-26.png",
+      "file": "assets/examples/sample-28.png",
       "sha256": "08d9067701b5391b7e96f300625d091ca5c43d8851b29299bd3d8144509815b1",
       "width": 1536,
       "height": 864,
@@ -316,7 +340,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-27.png",
+      "file": "assets/examples/sample-29.png",
       "sha256": "773721d12541151581ab9c6e0a18ee3566afe5f65ea9feb67f20e14e35859682",
       "width": 1536,
       "height": 864,
@@ -328,7 +352,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-28.png",
+      "file": "assets/examples/sample-30.png",
       "sha256": "2dea8ad05b18318a1099fd92a6f511121e3afdb9f7630c95d550e423c705fc7f",
       "width": 1536,
       "height": 864,
@@ -340,7 +364,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-29.png",
+      "file": "assets/examples/sample-31.png",
       "sha256": "a69c1edf35de35509a6747270cf57ce286e44b4c69e916fc5a9293bbb1f619dd",
       "width": 1536,
       "height": 864,
@@ -352,7 +376,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-30.png",
+      "file": "assets/examples/sample-32.png",
       "sha256": "33ab52789bf49096338b82e81b17acd53f7faaa13a4505fa4a270d263bf9ead0",
       "width": 1536,
       "height": 864,
@@ -364,7 +388,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-31.png",
+      "file": "assets/examples/sample-33.png",
       "sha256": "f0d1422ed3ab37f770bcd7d55e165a049f425b361f75a54c431440767926a5e8",
       "width": 1536,
       "height": 864,
@@ -376,7 +400,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-32.png",
+      "file": "assets/examples/sample-34.png",
       "sha256": "eab464049f8541531797a31186bd8733406b95a0dc485645d8cd582640d3683e",
       "width": 1536,
       "height": 864,
@@ -388,7 +412,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-33.png",
+      "file": "assets/examples/sample-35.png",
       "sha256": "0d39c14c4c50665995efe8d960224279317dc583a0213445bc0d1714c110de55",
       "width": 1536,
       "height": 864,
@@ -400,7 +424,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-34.png",
+      "file": "assets/examples/sample-36.png",
       "sha256": "58f2a4457d9afbf909fc57244ee38f9d6f0ed4b386a1f9e46c79711d75a09839",
       "width": 1536,
       "height": 864,
@@ -412,7 +436,19 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-35.png",
+      "file": "assets/examples/sample-37.png",
+      "sha256": "5347d2ea0d657ec5403aa392cb76861f1023a947df293a07caebf0234620a949",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "0408efffad2e1aa8218c67239f80aba807f2030c5f2d4b3f46b4c41bffe9bdf3",
+      "subject": "园中浇水壶",
+      "unsplash_id": "photo-1644093128240-18a8670f6fa6",
+      "text_locale": "ja-JP",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-38.png",
       "sha256": "cc158da039971a7493b876708970626905677a73bc7985f70f45cf04a8d3d57e",
       "width": 1536,
       "height": 864,
@@ -424,7 +460,19 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-36.png",
+      "file": "assets/examples/sample-39.png",
+      "sha256": "e9eafefee0cfb23579ca1183a6ccf21b418ac1cc26cc045eaba07f241d1080bc",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "0408efffad2e1aa8218c67239f80aba807f2030c5f2d4b3f46b4c41bffe9bdf3",
+      "subject": "沙丘行者",
+      "unsplash_id": "photo-1643926755460-89d26224e067",
+      "text_locale": "ar",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-40.png",
       "sha256": "6554be5713d4638117f918805bbef2b5e7619e0fafd0e252ebcb8fd0647684fe",
       "width": 1536,
       "height": 864,

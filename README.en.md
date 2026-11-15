@@ -81,7 +81,7 @@ Each image below is a finished result this Skill made from one photo. The top–
 </table>
 
 <details>
-<summary>Show 15 more</summary>
+<summary>Show 16 more</summary>
 
 <table>
   <tr>
@@ -114,6 +114,7 @@ Each image below is a finished result this Skill made from one photo. The top–
   </tr>
   <tr>
     <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 355 · 19 · Garden wheelbarrow"><br><sub>19 · Garden wheelbarrow</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 355 · 20 · A sailboat on a lake"><br><sub>20 · A sailboat on a lake</sub></td>
   </tr>
 </table>
 
@@ -123,45 +124,50 @@ Each image below is a finished result this Skill made from one photo. The top–
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 355 · 20 · Surfer"><br><sub>20 · Surfer</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 355 · 21 · Standing in yellow"><br><sub>21 · Standing in yellow</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 355 · 21 · Surfer"><br><sub>21 · Surfer</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 355 · 22 · Standing in yellow"><br><sub>22 · Standing in yellow</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 355 · 22 · Sweeping a courtyard"><br><sub>22 · Sweeping a courtyard</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 355 · 23 · Holding a balloon"><br><sub>23 · Holding a balloon</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 355 · 23 · Sweeping a courtyard"><br><sub>23 · Sweeping a courtyard</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 355 · 24 · Holding a balloon"><br><sub>24 · Holding a balloon</sub></td>
   </tr>
 </table>
 
 <details>
-<summary>Show 13 more</summary>
+<summary>Show 16 more</summary>
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 355 · 24 · Flamingo on sand"><br><sub>24 · Flamingo on sand</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 355 · 25 · Full-body giraffe"><br><sub>25 · Full-body giraffe</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 355 · 25 · A lone dog on the beach"><br><sub>25 · A lone dog on the beach</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 355 · 26 · Flamingo on sand"><br><sub>26 · Flamingo on sand</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 355 · 26 · Penguin in snow"><br><sub>26 · Penguin in snow</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 355 · 27 · Rooster in a yard"><br><sub>27 · Rooster in a yard</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 355 · 27 · Full-body giraffe"><br><sub>27 · Full-body giraffe</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 355 · 28 · Penguin in snow"><br><sub>28 · Penguin in snow</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 355 · 28 · Seated orange cat"><br><sub>28 · Seated orange cat</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 355 · 29 · Sunflower field"><br><sub>29 · Sunflower field</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 355 · 29 · Rooster in a yard"><br><sub>29 · Rooster in a yard</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 355 · 30 · Seated orange cat"><br><sub>30 · Seated orange cat</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 355 · 30 · One cactus"><br><sub>30 · One cactus</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 355 · 31 · Bamboo stumps in a grove"><br><sub>31 · Bamboo stumps in a grove</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 355 · 31 · Sunflower field"><br><sub>31 · Sunflower field</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 355 · 32 · One cactus"><br><sub>32 · One cactus</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 355 · 32 · One pear"><br><sub>32 · One pear</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 355 · 33 · Copper teapot"><br><sub>33 · Copper teapot</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 355 · 33 · Bamboo stumps in a grove"><br><sub>33 · Bamboo stumps in a grove</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 355 · 34 · One pear"><br><sub>34 · One pear</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 355 · 34 · Birdhouse on a pole"><br><sub>34 · Birdhouse on a pole</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 355 · 35 · Watering a garden"><br><sub>35 · Watering a garden</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 355 · 35 · Copper teapot"><br><sub>35 · Copper teapot</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 355 · 36 · Birdhouse on a pole"><br><sub>36 · Birdhouse on a pole</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 355 · 36 · One calla lily"><br><sub>36 · One calla lily</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 355 · 37 · Watering can in a garden"><br><sub>37 · Watering can in a garden</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 355 · 38 · Watering a garden"><br><sub>38 · Watering a garden</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 355 · 39 · A walker on the dunes"><br><sub>39 · A walker on the dunes</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 355 · 40 · One calla lily"><br><sub>40 · One calla lily</sub></td>
   </tr>
 </table>
 

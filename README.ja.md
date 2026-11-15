@@ -81,7 +81,7 @@ npx skills add https://github.com/nevertoday/xxd-panel-355 --skill xxd-panel-355
 </table>
 
 <details>
-<summary>さらに 15 枚を見る</summary>
+<summary>さらに 16 枚を見る</summary>
 
 <table>
   <tr>
@@ -114,6 +114,7 @@ npx skills add https://github.com/nevertoday/xxd-panel-355 --skill xxd-panel-355
   </tr>
   <tr>
     <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 355 · 19 · 庭の手押し車"><br><sub>19 · 庭の手押し車</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 355 · 20 · 湖のヨット"><br><sub>20 · 湖のヨット</sub></td>
   </tr>
 </table>
 
@@ -123,45 +124,50 @@ npx skills add https://github.com/nevertoday/xxd-panel-355 --skill xxd-panel-355
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 355 · 20 · サーファー"><br><sub>20 · サーファー</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 355 · 21 · 黄色い服で立つ人"><br><sub>21 · 黄色い服で立つ人</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 355 · 21 · サーファー"><br><sub>21 · サーファー</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 355 · 22 · 黄色い服で立つ人"><br><sub>22 · 黄色い服で立つ人</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 355 · 22 · 庭を掃く人"><br><sub>22 · 庭を掃く人</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 355 · 23 · 風船を持つ人"><br><sub>23 · 風船を持つ人</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 355 · 23 · 庭を掃く人"><br><sub>23 · 庭を掃く人</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 355 · 24 · 風船を持つ人"><br><sub>24 · 風船を持つ人</sub></td>
   </tr>
 </table>
 
 <details>
-<summary>さらに 13 枚を見る</summary>
+<summary>さらに 16 枚を見る</summary>
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 355 · 24 · 砂地のフラミンゴ"><br><sub>24 · 砂地のフラミンゴ</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 355 · 25 · 全身のキリン"><br><sub>25 · 全身のキリン</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 355 · 25 · 浜辺の一匹の犬"><br><sub>25 · 浜辺の一匹の犬</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 355 · 26 · 砂地のフラミンゴ"><br><sub>26 · 砂地のフラミンゴ</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 355 · 26 · 雪のペンギン"><br><sub>26 · 雪のペンギン</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 355 · 27 · 庭の雄鶏"><br><sub>27 · 庭の雄鶏</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 355 · 27 · 全身のキリン"><br><sub>27 · 全身のキリン</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 355 · 28 · 雪のペンギン"><br><sub>28 · 雪のペンギン</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 355 · 28 · 座る茶トラ"><br><sub>28 · 座る茶トラ</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 355 · 29 · ひまわり畑"><br><sub>29 · ひまわり畑</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 355 · 29 · 庭の雄鶏"><br><sub>29 · 庭の雄鶏</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 355 · 30 · 座る茶トラ"><br><sub>30 · 座る茶トラ</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 355 · 30 · サボテン一本"><br><sub>30 · サボテン一本</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 355 · 31 · 竹林の切り株"><br><sub>31 · 竹林の切り株</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 355 · 31 · ひまわり畑"><br><sub>31 · ひまわり畑</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 355 · 32 · サボテン一本"><br><sub>32 · サボテン一本</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 355 · 32 · 梨一つ"><br><sub>32 · 梨一つ</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 355 · 33 · 銅のティーポット"><br><sub>33 · 銅のティーポット</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 355 · 33 · 竹林の切り株"><br><sub>33 · 竹林の切り株</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 355 · 34 · 梨一つ"><br><sub>34 · 梨一つ</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 355 · 34 · 柱上の巣箱"><br><sub>34 · 柱上の巣箱</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 355 · 35 · 庭に水をやる人"><br><sub>35 · 庭に水をやる人</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 355 · 35 · 銅のティーポット"><br><sub>35 · 銅のティーポット</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 355 · 36 · 柱上の巣箱"><br><sub>36 · 柱上の巣箱</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 355 · 36 · カラー一輪"><br><sub>36 · カラー一輪</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 355 · 37 · 庭のじょうろ"><br><sub>37 · 庭のじょうろ</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 355 · 38 · 庭に水をやる人"><br><sub>38 · 庭に水をやる人</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 355 · 39 · 砂丘を歩く人"><br><sub>39 · 砂丘を歩く人</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 355 · 40 · カラー一輪"><br><sub>40 · カラー一輪</sub></td>
   </tr>
 </table>
 
